@@ -30,7 +30,4 @@ The Drum Kit web application is a fun and interactive tool that allows users to 
 
 ```bash
 git clone https://github.com/your-username/drum-kit.git
-exit
 
-### Author
-Rohit
